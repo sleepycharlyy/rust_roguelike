@@ -3,7 +3,7 @@
 ## about
 
 a simple roguelike game
-made with (tomassedovic/tcod-rs)<https://github.com/tomassedovic/tcod-rs> for rust, to learn rust,
+made with (tomassedovic/tcod-rs)[https://github.com/tomassedovic/tcod-rs] for rust, to learn rust,
 
 with this tutorial:
 
