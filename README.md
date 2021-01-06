@@ -7,6 +7,6 @@ made with [tomassedovic/tcod-rs](https://github.com/tomassedovic/tcod-rs) for ru
 
 with this tutorial:
 
-<https://tomassedovic.github.io/roguelike-tutorial/>
+[https://tomassedovic.github.io/roguelike-tutorial/]
 
 can be used as a template
